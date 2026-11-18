@@ -4,6 +4,9 @@
 [форка amurcanov](https://github.com/amurcanov/tg-ws-proxy-android): локальный MTProto-прокси
 для Telegram с минималистичным интерфейсом в стиле OLED.
 
+Это форк [amurcanov/tg-ws-proxy-android](https://github.com/amurcanov/tg-ws-proxy-android)
+(сам он — форк [Flowseal/tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy)).
+
 **[Скачать APK](https://github.com/Pe4enka41/tg-ws-proxy-oled/releases/latest)**
 
 <p align="center">
