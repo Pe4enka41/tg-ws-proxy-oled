@@ -4,6 +4,8 @@
 [форка amurcanov](https://github.com/amurcanov/tg-ws-proxy-android): локальный MTProto-прокси
 для Telegram с минималистичным интерфейсом в стиле OLED.
 
+**[Скачать APK](https://github.com/Pe4enka41/tg-ws-proxy-oled/releases/latest)**
+
 <p align="center">
   <b>Telegram → 127.0.0.1:1445 → tgwsproxy → WSS (Cloudflare / напрямую) → Telegram DC</b>
 </p>
